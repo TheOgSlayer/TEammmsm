@@ -1,0 +1,12 @@
+# Maximum members in one team
+max-members: 10
+
+# Items hidden from the icon picker (e.g. ones that load purple/black).
+icon-exclude:
+  - DRIED_GHAST
+  - TEST_BLOCK
+  - TEST_INSTANCE_BLOCK
+
+# Any item whose name ends with one of these is hidden too
+icon-exclude-suffix:
+  - _BANNER

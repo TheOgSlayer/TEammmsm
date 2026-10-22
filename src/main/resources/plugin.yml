@@ -1,0 +1,10 @@
+name: JalebiTeams
+main: smp.jalebi.teams.JalebiTeams
+version: 1.0.0
+api-version: '1.21'
+description: Teams for JALEBI SMP
+commands:
+  teams:
+    description: Open the Jalebi Teams menu
+    aliases: [team, jteam]
+    usage: /teams
